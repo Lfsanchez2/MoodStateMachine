@@ -1,0 +1,15 @@
+Mood,Filename,BackgroundColor,Transition,NextState
+Angry,assets/Angry.png,#41337A,Watch videos on YouTube,Relaxed
+Angry,assets/Angry.png,#41337A,Play with my cat,Happy
+Anxious,assets/Anxious.png,#331E36,Get home from classes,Happy
+Anxious,assets/Anxious.png,#331E36,Listen to music,Relaxed
+Anxious,assets/Anxious.png,#331E36,Can't relax,Frustrated
+Frustrated,assets/Frustrated.png,#EBCBF4,Having trouble coming up with ideas,Angry
+Frustrated,assets/Frustrated.png,#EBCBF4,Fix all the bugs in a program,Happy
+Frustrated,assets/Frustrated.png,#EBCBF4,Take a break from a problem,Relaxed
+Happy,assets/Happy.png,#41337A,Bugs in code start popping up,Frustrated
+Happy,assets/Happy.png,#41337A,My bus to campus gets delayed,Angry
+Happy,assets/Happy.png,#41337A,Remember some work I forgot to do,Anxious
+Relaxed,assets/Relaxed.png,#331E36,Deadline for a project slowly approaching,Anxious
+Relaxed,assets/Relaxed.png,#331E36,Getting into a good workflow,Happy
+Relaxed,assets/Relaxed.png,#331E36,Get into an argument with someone,Angry

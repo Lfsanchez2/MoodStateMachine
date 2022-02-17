@@ -1,9 +1,16 @@
+/*
+  Centers the body which contains the p5 canvas towards the center.
+*/
 body {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
+/*
+  Displays the p5 canvas with a slight top margin and with
+  a border on the bottom and the sides.
+*/
 canvas {
   display: block;
   margin-top: 3vw;

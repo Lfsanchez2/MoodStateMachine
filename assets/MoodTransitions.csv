@@ -1,15 +1,25 @@
 Mood,Filename,BackgroundColor,Transition,NextState
 Angry,assets/Angry.png,#41337A,Watch videos on YouTube,Relaxed
-Angry,assets/Angry.png,#41337A,Play with my cat,Happy
+Angry,assets/Angry.png,#41337A,Get home and see my cat,Excited
+Angry,assets/Angry.png,#41337A,Take my mind off it by working or doing something else,Motivated
 Anxious,assets/Anxious.png,#331E36,Get home from classes,Happy
 Anxious,assets/Anxious.png,#331E36,Listen to music,Relaxed
 Anxious,assets/Anxious.png,#331E36,Can't relax,Frustrated
+Excited,assets/Excited.png,#331E36,Play with my cat,Happy
+Excited,assets/Excited.png,#331E36,My bus gets delayed,Frustrated
+Excited,assets/Excited.png,#331E36,Watch a stream while I'm working,Relaxed
 Frustrated,assets/Frustrated.png,#EBCBF4,Having trouble coming up with ideas,Angry
-Frustrated,assets/Frustrated.png,#EBCBF4,Fix all the bugs in a program,Happy
+Frustrated,assets/Frustrated.png,#EBCBF4,Fix all the bugs in a program,Motivated
 Frustrated,assets/Frustrated.png,#EBCBF4,Take a break from a problem,Relaxed
 Happy,assets/Happy.png,#41337A,Bugs in code start popping up,Frustrated
-Happy,assets/Happy.png,#41337A,My bus to campus gets delayed,Angry
+Happy,assets/Happy.png,#41337A,Get to go home early,Excited
 Happy,assets/Happy.png,#41337A,Remember some work I forgot to do,Anxious
+Motivated,assets/Motivated.png,#41337A,Finish all my work/what I was focusing on,Excited
+Motivated,assets/Motivated.png,#41337A,Get stuck on something for a while,Frustrated
+Motivated,assets/Motivated.png,#41337A,Can't get my idea to look the way I want it to,Sad
 Relaxed,assets/Relaxed.png,#331E36,Deadline for a project slowly approaching,Anxious
 Relaxed,assets/Relaxed.png,#331E36,Getting into a good workflow,Happy
-Relaxed,assets/Relaxed.png,#331E36,Get into an argument with someone,Angry
+Relaxed,assets/Relaxed.png,#331E36,New episode for an anime I like comes out today,Excited
+Sad,assets/Sad.png,#331E36,Let it all out,Relaxed
+Sad,assets/Sad.png,#331E36,Start feeling like it wasn't anything serious,Frustrated
+Sad,assets/Sad.png,#331E36,Talk to my friends or family,Happy
